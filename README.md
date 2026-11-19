@@ -6,3 +6,8 @@
 ## Mi API cobra con x402
 - Pago de 0.01 USDC a mi API: c5934e28caf954e09f6a110fe00458b2f37cae481a2c3a581dd457a1d6e4ca04
 - Verlo: https://stellar.expert/explorer/testnet/tx/c5934e28caf954e09f6a110fe00458b2f37cae481a2c3a581dd457a1d6e4ca04
+
+## Mi agente paga solo
+- Tope por pago: $0.02. Lo que lo excede se rechaza sin transacción.
+- Pago del agente a mi API: fd685af61011d693cdb3ab8f5b18631f96182f43c1f038dbc521d434ec79f5d4
+- Verlo: https://stellar.expert/explorer/testnet/tx/fd685af61011d693cdb3ab8f5b18631f96182f43c1f038dbc521d434ec79f5d4
